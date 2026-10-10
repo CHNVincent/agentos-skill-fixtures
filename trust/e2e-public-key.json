@@ -1,0 +1,8 @@
+{
+  "key_id": "agentos-b2-e2e-fixture-key-v1",
+  "algorithm": "Ed25519",
+  "encoding": "raw-32-byte-public-key",
+  "public_key_hex": "194c2849b3e915a859129d59fd3fb07851f7feb099d59befee3881443bfd4285",
+  "public_key_b64": "GUwoSbPpFahZEp1Z/T+weFH3/rCZ1Zvv7jiBRDv9QoU=",
+  "scope": "E2E acceptance only. MUST NOT be added to the production trust root."
+}
