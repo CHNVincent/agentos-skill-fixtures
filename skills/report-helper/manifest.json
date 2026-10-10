@@ -1,0 +1,19 @@
+{
+  "declared_capabilities": [],
+  "dependencies": [],
+  "description": "Turn a short set of findings into a structured written report.",
+  "entrypoint": "SKILL.md",
+  "key_id": "agentos-b2-e2e-fixture-key-v1",
+  "schema_version": "external-skill-manifest-v1",
+  "signature": "5+QRrfi7O9Y1HCaP1t8tNmL7rmZh5lMpydfFTQDdOPd8Ya82tb80sgdt75EOBTyz791YH8M0k6NQzJj0cAo9BQ==",
+  "signature_algorithm": "Ed25519",
+  "signed_payload_sha256": "701b10bdd7b104e57dec3f4fd4409cd5fe7599f10dff1481755bed97f58291b4",
+  "skill_id": "github-report-helper",
+  "source": {
+    "repository": "https://github.com/CHNVincent/agentos-skill-fixtures",
+    "type": "git"
+  },
+  "valid_from": "2026-10-09T03:15:32.800281+00:00",
+  "valid_until": "2036-10-07T03:15:32.800281+00:00",
+  "version": "1.0.0"
+}
