@@ -1,0 +1,19 @@
+{
+  "declared_capabilities": [],
+  "dependencies": [],
+  "description": "Review a change description and return a structured critique.",
+  "entrypoint": "SKILL.md",
+  "key_id": "agentos-b2-e2e-fixture-key-v1",
+  "schema_version": "external-skill-manifest-v1",
+  "signature": "Xcu6n99Lp2l99BFoXvAJO0SWaQk71F1gpuF7HV1nMYJURha2G+WSRegc8MLAOoHC9ZqhNwSwPSkJAZPFY5FrAA==",
+  "signature_algorithm": "Ed25519",
+  "signed_payload_sha256": "a8c931722a8ad0edaef84ed7412a61fe12546f2c3b093973bd7a7d6774729df6",
+  "skill_id": "github-review-helper",
+  "source": {
+    "repository": "https://github.com/CHNVincent/agentos-skill-fixtures",
+    "type": "git"
+  },
+  "valid_from": "2026-10-09T03:15:32.796064+00:00",
+  "valid_until": "2036-10-07T03:15:32.796064+00:00",
+  "version": "1.0.0"
+}
